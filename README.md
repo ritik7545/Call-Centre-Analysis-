@@ -1,5 +1,5 @@
 
-# Call Center Analysis Dashboard
+# Call Centre Analysis Dashboard
 ## Dashboard Image
 ![image](https://github.com/user-attachments/assets/8be8fe6d-8873-43af-bae7-476243f6ff49)
 
